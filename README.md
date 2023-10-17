@@ -1,17 +1,36 @@
-# Android Lab 3 - *NY Times Bestselling Books*
+# Android Project 3 - *Flixster Part 1*
 
 Submitted by: **Ricardo Elizondo**
 
-**NY Times Bestselling Books** is a wishlist app that helps the user keep track of what they want to buy.
+**Flixster** is a movie browsing app that allows users to browse movies currently playing in theaters.
 
-Time spent: **2** hours spent in total
+Time spent: **6** hours spent in total
 
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
+- [x] **Parse through JSON data and implement a RecyclerView to display all movies**
+- [x] **Use Glide to load and display movie poster images**
+
+The following **optional** features are implemented:
+
+- [ ] Improve and customize the user interface through styling and coloring
+- [ ] Implement orientation responsivity
+  - App should neatly arrange data in both landscape and portrait mode
+- [ ] Implement Glide to display placeholder graphics during loading
+  - Note: this feature is difficult to capture in a GIF without throttling internet speeds.  Instead, include an additional screencap of your Glide code implementing the feature.  (<10 lines of code)
+
+The following **additional** features are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI0ZG1lbnRuZmU5eG8yM2JxcWtrOW0zZmpkejJ5MDdwZDlsNDF1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ua5kOtErHFIzJBVW9j/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/d9UbFBk.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -24,10 +43,9 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
-
 ## License
 
-    Copyright [2023] [Ricardo Elizondo]
+    Copyright [yyyy] [name of copyright owner]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
