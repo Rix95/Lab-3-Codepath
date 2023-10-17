@@ -30,7 +30,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/ec161a33-b4cb-4ea6-8995-4d75bfac6efb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Project3](https://github.com/Rix95/Lab-3-Codepath/assets/95265236/1b9b66bd-641d-4db6-966a-c8cad499f827)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
